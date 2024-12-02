@@ -1,6 +1,6 @@
 Personal [Advent of Code](https://adventofcode.com) solutions, as authored by me. In previous years, I've participated in the competition to varying degrees of completion. Regardless, consider the code in this repository fresh as of the first commit.
 
-A while back, a [friend of mine](https://github.com/nicorising/advent-of-code) introduced to me his personal challenge to complete every year's challenges in a different language. I intend to do the same.
+A while back, [a friend of mine](https://github.com/nicorising/advent-of-code) introduced to me his personal challenge to complete every year's challenges in a different language. I intend to do the same.
 
 ## Languages
 | Year                                  | Language                                                      | Stars |
