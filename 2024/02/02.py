@@ -13,6 +13,7 @@ for report in reps:
     if safe:
         safeCount += 1
 print("Number of safe counts: " + str(safeCount))
+# Number of safe counts: 287
 
 # Part II
 safeCount = 0
@@ -37,3 +38,4 @@ for line in reps:
         if dampener:
             safeCount += 1
 print("Number of safe counts with dampener: " + str(safeCount))
+# Number of safe counts with dampener: 354

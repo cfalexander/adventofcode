@@ -13,6 +13,7 @@ diff = 0
 for i in range(len(lineleft)):
     diff += abs(int(lineleft[i]) - int(lineright[i]))
 print("The sum of differences is: " + str(diff))
+# The sum of differences is: 3508942
 
 
 # Part II
@@ -21,3 +22,4 @@ for num in lineleft:
     if num in lineright:
         sscore += lineright.count(num) * int(num)
 print("The new similarity score is: " + str(sscore))
+# The new similarity score is: 26593248
