@@ -18,4 +18,4 @@ A while back, [a friend of mine](https://github.com/nicorising/advent-of-code) i
 
 ## License
 
-This code is released under the [GPL-3.0 License](LICENSE)
+This code is released under the [GPL-3.0 License](LICENSE).
