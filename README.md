@@ -5,7 +5,7 @@ A while back, [a friend of mine](https://github.com/nicorising/advent-of-code) i
 ## Languages
 | Year                                  | Language                                                      | Stars |
 | ------------------------------------- | ------------------------------------------------------------- | ----- |
-| [2015](https://adventofcode.com/2015) | [Java](https://www.oracle.com/java/)| 2    |
+| [2015](https://adventofcode.com/2015) | [Java](https://www.oracle.com/java/)| 3    |
 | [2016](https://adventofcode.com/2016) | [Fortran](https://fortran-lang.org/)        | 0    |
 | [2017](https://adventofcode.com/2017) | [Julia](https://julialang.org/)        | 0    |
 | [2018](https://adventofcode.com/2018) | [Common Lisp](https://lisp-lang.org/)        | 0    |
