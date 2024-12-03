@@ -5,7 +5,7 @@ A while back, [a friend of mine](https://github.com/nicorising/advent-of-code) i
 ## Languages
 | Year                                  | Language                                                      | Stars |
 | ------------------------------------- | ------------------------------------------------------------- | ----- |
-| [2015](https://adventofcode.com/2015) | [Java](https://www.oracle.com/java/)| 3    |
+| [2015](https://adventofcode.com/2015) | [Java](https://www.oracle.com/java/)| 4    |
 | [2016](https://adventofcode.com/2016) | [Fortran](https://fortran-lang.org/)        | 0    |
 | [2017](https://adventofcode.com/2017) | [Julia](https://julialang.org/)        | 0    |
 | [2018](https://adventofcode.com/2018) | [Common Lisp](https://lisp-lang.org/)        | 0    |
@@ -14,7 +14,7 @@ A while back, [a friend of mine](https://github.com/nicorising/advent-of-code) i
 | [2021](https://adventofcode.com/2021) | [Coq](https://coq.inria.fr/)        | 0    |
 | [2022](https://adventofcode.com/2022) | [Chapel](https://chapel-lang.org/)        | 0    |
 | [2023](https://adventofcode.com/2023) | [Clojure](https://clojure.org/)       | 0    |
-| [2024](https://adventofcode.com/2024) | [Python](https://www.python.org/)| 4     |
+| [2024](https://adventofcode.com/2024) | [Python](https://www.python.org/)| 6     |
 
 ## License
 
