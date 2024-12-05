@@ -9,6 +9,7 @@ for line in lines:
     for n1, n2 in re.findall(r"mul\((\d+),(\d+)\)", line):
         total += int(n1)*int(n2)
 print("Sum of multiplications:", total)
+# Sum of multiplications: 182780583
 
 # Part II
 total2 = 0
@@ -20,4 +21,5 @@ for line in lines:
         else:
             total2 += int(n1)*int(n2)*enabled
 print("Sum of enabled multiplications:", total2)
+# Sum of enabled multiplications: 90772405
 
