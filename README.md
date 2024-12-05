@@ -14,7 +14,7 @@ A while back, [a friend of mine](https://github.com/nicorising/advent-of-code) i
 | [2021](https://adventofcode.com/2021) | [Coq](https://coq.inria.fr/)        | 0    |
 | [2022](https://adventofcode.com/2022) | [Chapel](https://chapel-lang.org/)        | 0    |
 | [2023](https://adventofcode.com/2023) | [Clojure](https://clojure.org/)       | 0    |
-| [2024](https://adventofcode.com/2024) | [Python](https://www.python.org/)| 6     |
+| [2024](https://adventofcode.com/2024) | [Python](https://www.python.org/)| 8     |
 
 ## License
 
